@@ -1,6 +1,6 @@
 # traceMeAnHanzi
 Learn Chinese on the go 
-[Demo is here](http://all-informatic.mediapromo.be/contribs/traceMeAnHanzi/index.html?q=%E7%88%B1) 
+[Demo is here](http://all-informatic.mediapromo.be/contribs/traceMeAnHanzi/index.html) 
 
 Here are the gifts to make it work on your side with the datas:
 * [svgs](http://sosie.sos-productions.com/gift/defs.zip)
